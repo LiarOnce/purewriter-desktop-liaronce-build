@@ -15,6 +15,10 @@ Pure Writer Desktop (LiarOnce Build) for other platform.
  - [Windows 32 Bit](https://purewriter.liaronce.com/#/windowsx86)
  - [Single JAR file](https://purewriter.liaronce.com/#/jarfile)
  
+## 已知问题
+
+由于种种原因（穷），未测试 Surface Pro X、Matebook E 2019 等搭载 Windows 10 ARM64 系统的设备是否可以正常运行。
+
 了解更多信息，请访问：[https://purewriter.liaronce.com](https://purewriter.liaronce.com)
 
 捐赠：[https://purewriter.liaronce.com/#/donate](https://purewriter.liaronce.com/#/donate)
