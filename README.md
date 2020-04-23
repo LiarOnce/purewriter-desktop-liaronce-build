@@ -7,7 +7,7 @@ Pure Writer Desktop (LiarOnce Build) for other platform.
 
 此处的编译版本个人保证不会进行任何修改（因为我不会 Java 和 Kotlin 啊，~~大二的时候学的也是 JavaScript~~）
 
-目前我个人唯一的修改是在 `build.gradle` 中将 Maven 仓库改为阿里镜像地址（用于加速获取依赖：[查看 commit](https://github.com/LiarOnce/desktop/commit/bca3945de7b7457d72a21ba4d563176c79c6579a)
+目前我个人的修改可在此处查看：[查看记录](https://github.com/LiarOnce/desktop/commits/master)
 
 ## 目前提供的包
 
