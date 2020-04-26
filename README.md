@@ -5,7 +5,7 @@ Pure Writer Desktop (LiarOnce Build) for other platform.
 
 **纯纯写作桌面版本身完全免费、完全开源，它当前非常初级，只提供了双向实时同步编辑当前文章这个功能，甚至它可能对您来说完全不能用 ⚠️⚠️⚠️。如果您打算 仅仅 因为这个桌面版而付费，我强烈建议您重新考虑这件事情。**      --来源：[纯纯写作桌面版](https://writer.drakeet.com/desktop)
 
-此处的编译版本个人保证不会进行任何修改（因为我不会 Java 和 Kotlin 啊，~~大二的时候学的也是 JavaScript~~）
+此处的编译版本个人保证不会对程序本身进行任何修改（因为我不会 Java 和 Kotlin 啊，~~大二的时候学的也是 JavaScript~~）
 
 目前我个人的修改可在此处查看：[查看记录](https://github.com/LiarOnce/desktop/commits/master)
 
