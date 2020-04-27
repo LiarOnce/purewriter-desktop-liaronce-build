@@ -17,7 +17,7 @@ Pure Writer Desktop (LiarOnce Build) for other platform.
  
 ## 已知问题
 
-由于种种原因（穷），未测试 Surface Pro X、Matebook E 2019 等搭载 Windows 10 ARM64 系统的设备是否可以正常运行。
+由于种种原因（穷），未测试 Surface Pro X、Matebook E 2019 等搭载 Windows 10 ARM64 系统的设备是否可以正常运行。[issue#1](https://github.com/LiarOnce/purewriter-desktop-liaronce-build/issues/1)
 
 ## 更多
 
