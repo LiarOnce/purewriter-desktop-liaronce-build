@@ -13,11 +13,12 @@ Pure Writer Desktop (LiarOnce Build) for other platform.
 
 ## 目前提供的包
 
- - [Linux 32 Bit/64 Bit x86](https://purewriter.liaronce.com/#/linux86)（zip，如需 deb 或 AppImage 需自行解决）
- > 用于编译的系统环境：32-bit: Lubuntu 18.04 (虚拟机) | 64-bit: Manjaro 20.0 Lysia (个人自用物理机)
+ - [Linux 64 Bit x86](https://purewriter.liaronce.com/#/linux86)（zip，如需 deb 或 AppImage 需自行解决）
+ > 用于编译的系统环境：64-bit: Manjaro 20.0 Lysia (个人自用物理机)
  - [Windows 32 Bit](https://purewriter.liaronce.com/#/windowsx86)
  > 用于编译的系统环境：32-bit: Windows 7 Professional (虚拟机) (镜像: 7601.24540 Professional 7 SP1 x86 ZH-CN SM.iso)
  - [Single JAR file](https://purewriter.liaronce.com/#/jarfile)
+ > 适用于任何 32-bit x86 系统，如 32 位 Linux 发行版以及 Windows 32 位，但该版本更干净
  
 ## 已知问题
 
