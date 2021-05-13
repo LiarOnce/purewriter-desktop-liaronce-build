@@ -5,6 +5,10 @@ Pure Writer Desktop (LiarOnce Build) for other platform.
 
 从 1.x 开始纯纯写作的桌面版不再开源，从今天开始改为打包 AppImage 版本，目前该版本从 .deb 解包而来
 
+另外在仓库提供 `appimage-builder` 的配置文件和修改后的 `.desktop` 文件
+
+（原因是 `Desktop Entry` 中 `Categories` 值不允许为 `Unknown`，这会导致在打包过程中报错导致失败，遂改为 `Office`）
+
 ## 打包
 
 请确保系统为 Debian 系 Linux 发行版（如 Debian、Ubuntu 等，本配置文件在 Lubuntu 环境下测试通过）
