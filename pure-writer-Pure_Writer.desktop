@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pure Writer
+Comment=Never loss content editor & Markdown
+Exec="/opt/pure-writer/bin/Pure Writer"
+Icon=Pure_Writer
+Terminal=false
+Type=Application
+Categories=Office
+MimeType=
